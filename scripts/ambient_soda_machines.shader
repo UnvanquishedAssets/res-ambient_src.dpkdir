@@ -8,7 +8,7 @@ textures/shared_ambient/soda_machines/khalsacola
 	qer_editorimage textures/shared_ambient_src/soda_machines/khalsacola_d
 	diffuseMap	textures/shared_ambient_src/soda_machines/khalsacola_d
 	specularMap     textures/shared_ambient_src/soda_machines/khalsacola_s
-	glowMap		textures/shared_ambient_src/soda_machines/khalsacola_g
+	glowMap		textures/shared_ambient_src/soda_machines/khalsacola_a
 }
 
 textures/shared_ambient/soda_machines/trembru
@@ -19,7 +19,7 @@ textures/shared_ambient/soda_machines/trembru
 	qer_editorimage textures/shared_ambient_src/soda_machines/trembru_d
 	diffuseMap	textures/shared_ambient_src/soda_machines/trembru_d
 	specularMap     textures/shared_ambient_src/soda_machines/trembru_s
-	glowMap		textures/shared_ambient_src/soda_machines/trembru_g
+	glowMap		textures/shared_ambient_src/soda_machines/trembru_a
 }
 
 textures/shared_ambient/soda_machines/vita-watar
@@ -30,7 +30,7 @@ textures/shared_ambient/soda_machines/vita-watar
 	qer_editorimage textures/shared_ambient_src/soda_machines/vita-watar_d
 	diffuseMap	textures/shared_ambient_src/soda_machines/vita-watar_d
 	specularMap     textures/shared_ambient_src/soda_machines/vita-watar_s
-	glowMap		textures/shared_ambient_src/soda_machines/vita-watar_g
+	glowMap		textures/shared_ambient_src/soda_machines/vita-watar_a
 }
 
 textures/shared_ambient/soda_machines/so-duh
@@ -41,5 +41,5 @@ textures/shared_ambient/soda_machines/so-duh
 	qer_editorimage textures/shared_ambient_src/soda_machines/so-duh_d
 	diffuseMap	textures/shared_ambient_src/soda_machines/so-duh_d
 	specularMap     textures/shared_ambient_src/soda_machines/so-duh_s
-	glowMap		textures/shared_ambient_src/soda_machines/so-duh_g
+	glowMap		textures/shared_ambient_src/soda_machines/so-duh_a
 }
