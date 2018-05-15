@@ -1,1 +1,3 @@
-build/
+/.paktrace/
+/build/
+*_p.jpg

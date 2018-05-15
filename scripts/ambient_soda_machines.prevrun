@@ -1,0 +1,6 @@
+[_init_]
+extend = "${game}"
+
+[dir]
+source = "textures/shared_ambient_src/soda_machines"
+preview = "textures/shared_ambient_src/soda_machines"
