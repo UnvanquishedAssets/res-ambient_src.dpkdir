@@ -1,6 +1,0 @@
-[_init_]
-extend = "${game}"
-
-[dir]
-source = "textures/shared_ambient_src/blood"
-preview = "textures/shared_ambient_src/blood"
