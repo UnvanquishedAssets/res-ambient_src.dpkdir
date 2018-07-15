@@ -1,2 +1,2 @@
-ambient_blood
-ambient_soda-machines
+shared_ambient_blood
+shared_ambient_soda-machines
