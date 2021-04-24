@@ -19,12 +19,12 @@ textures/shared_ambient/soda-machines/khalsacola
 	}
 }
 
-textures/shared_ambient/soda-machines/khalsacola-off
+textures/shared_ambient/soda-machines/khalsacola_off
 {
-	qer_editorImage     textures/shared_ambient_src/soda-machines/khalsacola-off_d
+	qer_editorImage     textures/shared_ambient_src/soda-machines/khalsacola_off_d
 
 	{
-		diffuseMap      textures/shared_ambient_src/soda-machines/khalsacola-off_d
+		diffuseMap      textures/shared_ambient_src/soda-machines/khalsacola_off_d
 		heightMap       textures/shared_ambient_src/soda-machines/khalsacola_h
 		normalMap       textures/shared_ambient_src/soda-machines/khalsacola_n
 		normalFormat    X Y Z
@@ -42,7 +42,7 @@ textures/shared_ambient/soda-machines/trembru
 	q3map_backSplash        100 20
 
 	{
-		diffuseMap      textures/shared_ambient_src/soda-machines/trembru-off_d
+		diffuseMap      textures/shared_ambient_src/soda-machines/trembru_off_d
 		heightMap       textures/shared_ambient_src/soda-machines/trembru_h
 		normalMap       textures/shared_ambient_src/soda-machines/trembru_n
 		normalFormat    X Y Z
@@ -51,12 +51,12 @@ textures/shared_ambient/soda-machines/trembru
 	}
 }
 
-textures/shared_ambient/soda-machines/trembru-off
+textures/shared_ambient/soda-machines/trembru_off
 {
-	qer_editorImage     textures/shared_ambient_src/soda-machines/trembru-off_d
+	qer_editorImage     textures/shared_ambient_src/soda-machines/trembru_off_d
 
 	{
-		diffuseMap      textures/shared_ambient_src/soda-machines/trembru-off_d
+		diffuseMap      textures/shared_ambient_src/soda-machines/trembru_off_d
 		heightMap       textures/shared_ambient_src/soda-machines/trembru_h
 		normalMap       textures/shared_ambient_src/soda-machines/trembru_n
 		normalFormat    X Y Z
@@ -83,12 +83,12 @@ textures/shared_ambient/soda-machines/vita-watar
 	}
 }
 
-textures/shared_ambient/soda-machines/vita-watar-off
+textures/shared_ambient/soda-machines/vita-watar_off
 {
-	qer_editorImage     textures/shared_ambient_src/soda-machines/vita-watar-off_d
+	qer_editorImage     textures/shared_ambient_src/soda-machines/vita-watar_off_d
 
 	{
-		diffuseMap      textures/shared_ambient_src/soda-machines/vita-watar-off_d
+		diffuseMap      textures/shared_ambient_src/soda-machines/vita-watar_off_d
 		heightMap       textures/shared_ambient_src/soda-machines/vita-watar_h
 		normalMap       textures/shared_ambient_src/soda-machines/vita-watar_n
 		normalFormat    X Y Z
@@ -115,12 +115,12 @@ textures/shared_ambient/soda-machines/so-duh
 	}
 }
 
-textures/shared_ambient/soda-machines/so-duh-off
+textures/shared_ambient/soda-machines/so-duh_off
 {
-	qer_editorImage     textures/shared_ambient_src/soda-machines/so-duh-off_d
+	qer_editorImage     textures/shared_ambient_src/soda-machines/so-duh_off_d
 
 	{
-		diffuseMap      textures/shared_ambient_src/soda-machines/so-duh-off_d
+		diffuseMap      textures/shared_ambient_src/soda-machines/so-duh_off_d
 		heightMap       textures/shared_ambient_src/soda-machines/vita-watar_h
 		normalMap       textures/shared_ambient_src/soda-machines/vita-watar_n
 		normalFormat    X Y Z
