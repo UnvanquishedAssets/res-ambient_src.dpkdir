@@ -7,8 +7,8 @@ gfx/sprites/smoke
 	{
 		map gfx/sprites/smoke
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
-		rgbGen    vertex
-		alphaGen  vertex
+		rgbGen vertex
+		alphaGen vertex
 	}
 }
 
@@ -18,7 +18,7 @@ gfx/sprites/spark
 	{
 		map gfx/sprites/spark
 		blendFunc GL_SRC_ALPHA GL_ONE_MINUS_SRC_ALPHA
-		rgbGen    vertex
-		alphaGen  vertex
+		rgbGen vertex
+		alphaGen vertex
 	}
 }
