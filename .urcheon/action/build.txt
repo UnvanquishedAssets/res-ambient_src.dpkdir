@@ -1,6 +1,0 @@
-copy textures/shared_ambient_src/blood/jher_flood_blood1_p.png
-copy textures/shared_ambient_src/blood/jher_flood_blood3_p.png
-copy textures/shared_ambient_src/blood/jher_flood_blood_writing1_p.png
-copy textures/shared_ambient_src/blood/stannum_blood1_p.png
-copy textures/shared_ambient_src/blood/stannum_blood2_p.png
-copy textures/shared_ambient_src/blood/stannum_blood3_p.png
